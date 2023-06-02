@@ -1,2 +1,2 @@
 # api-parking-control
-REST API Java built using the ecossystem Spring + PostgreSQL.
+RESTful API Java to control parking slots in buildings built using the ecossystem Spring + PostgreSQL as its database.
